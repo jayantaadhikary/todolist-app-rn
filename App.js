@@ -93,6 +93,7 @@ const styles = StyleSheet.create({
   textInput: {
     fontSize: 15,
     width: "80%",
+    paddingBottom: 10,
   },
   buttonContainer: {},
 });
