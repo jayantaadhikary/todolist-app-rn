@@ -11,4 +11,4 @@ To use this app perform the following -
 > Run "npx expo start" to run the expo server.
 > Open the app in Android, iOS emulators or your personal device by scanning the QR.
 
-![ScreenShot](images/ss.png)
+<img src="images/ss.png" alt="Screenshot" width="250" height="500" />
